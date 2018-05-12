@@ -1,0 +1,34 @@
+_repo: Sir-William-Wallace_45035
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45035-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Murison, Alexander Falconer
+    alias: Murison, A. F. (Alexander Falconer)
+    birthdate: 1847
+    deathdate: 1934
+    gutenberg_agent_id: '42878'
+    url: http://www.gutenberg.org/2009/agents/42878
+    wikipedia: https://en.wikipedia.org/wiki/Alexander_Falconer_Murison
+description: ''
+gutenberg_bookshelf: Famous Scots Series
+gutenberg_issued: '2014-02-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45035'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Famous Scots Series, 22
+subjects:
+- !lcc 'DA'
+- !lcsh 'Scotland -- History -- Wallace''s Rising, 1297-1304'
+- !lcsh 'Nationalists -- Scotland -- Biography'
+- !lcsh 'Wallace, William, Sir, -1305'
+- !lcsh 'Guerrillas -- Scotland -- Biography'
+- !lcsh 'Revolutionaries -- Scotland -- Biography'
+title: Sir William Wallace
+url: http://www.gutenberg.org/ebooks/45035
