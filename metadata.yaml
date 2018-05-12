@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/42878
     wikipedia: https://en.wikipedia.org/wiki/Alexander_Falconer_Murison
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45035#Sir-William-Wallace
 gutenberg_bookshelf: Famous Scots Series
 gutenberg_issued: '2014-02-28'
 gutenberg_type: Text
